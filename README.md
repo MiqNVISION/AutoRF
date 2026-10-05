@@ -20,3 +20,18 @@ RTC
 systemd timer
  ↓
 Python application
+
+
+
+## Repo structure
+AutoRF/
+├── README.md
+├── main.py
+├── autorf.service
+├── autorf.timer
+├── requirements.txt
+├── data/
+└── logs/
+
+
+
