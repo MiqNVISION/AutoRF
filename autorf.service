@@ -3,5 +3,5 @@ Description=AutoRF
 
 [Service]
 Type=oneshot
-WorkingDirectory=/home/pi/AutoRF
-ExecStart=/home/pi/AutoRF/launcher.sh
+WorkingDirectory=/home/dhealth/AutoRF
+ExecStart=/home/dhealth/AutoRF/launcher.sh

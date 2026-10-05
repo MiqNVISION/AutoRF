@@ -1,5 +1,6 @@
 #!/bin/bash
 
-cd /d/Documents/GitHub/AutoRF
+cd /home/dhealth/AutoRF
 
 python3 main.py
+``
