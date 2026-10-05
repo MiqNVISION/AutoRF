@@ -20,7 +20,7 @@ RTC
 systemd timer
  ↓
 Python application
-
+```
 
 
 ## Repo structure
