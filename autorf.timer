@@ -1,0 +1,8 @@
+[Unit]
+Description=AutoRF Timer
+
+[Timer]
+OnBootSec=20sec
+
+[Install]
+WantedBy=timers.target
