@@ -1,0 +1,7 @@
+[Unit]
+Description=AutoRF
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/pi/AutoRF
+ExecStart=/home/pi/AutoRF/launcher.sh
